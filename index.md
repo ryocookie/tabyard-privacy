@@ -1,24 +1,24 @@
 ---
-title: SpaceTab Privacy Policy
+title: Tabyard Privacy Policy
 ---
 
 <!-- Source: ryocookie/spacetab docs/privacy-policy.md. Edit there and copy here. -->
 
-# SpaceTab Privacy Policy
+# Tabyard Privacy Policy
 
 Last updated: October 3, 2026
 
-SpaceTab is a Chrome extension that replaces your new tab page with your own links, notes, to-dos, clocks, timers, calendar events and weather. This policy explains what data SpaceTab handles and where it goes.
+Tabyard is a Chrome extension that replaces your new tab page with your own links, notes, to-dos, clocks, timers, calendar events and weather. This policy explains what data Tabyard handles and where it goes.
 
 ## Summary
 
-- SpaceTab has no account and no server of its own. The developer does not receive any of your data.
+- Tabyard has no account and no server of its own. The developer does not receive any of your data.
 - Everything you create is stored only in your browser on your device.
-- SpaceTab contains no analytics, tracking or advertising, and never sells or shares data.
+- Tabyard contains no analytics, tracking or advertising, and never sells or shares data.
 
 ## Data stored on your device
 
-SpaceTab stores the following in your browser's extension storage (`chrome.storage.local` and `localStorage`). It never leaves your device unless you export it yourself.
+Tabyard stores the following in your browser's extension storage (`chrome.storage.local` and `localStorage`). It never leaves your device unless you export it yourself.
 
 - Your spaces, cards, links, notes, to-dos, timer settings and display preferences
 - Automatic backups of the above (up to the latest 12, plus one per day for 30 days)
@@ -30,7 +30,7 @@ Uninstalling the extension deletes all of this data.
 
 ## Network requests
 
-SpaceTab only connects to other services for the features you choose to use:
+Tabyard only connects to other services for the features you choose to use:
 
 | Feature | Service | What is sent |
 | --- | --- | --- |
@@ -58,15 +58,15 @@ Questions about this policy: ryo19960220@gmail.com
 
 ---
 
-# SpaceTab プライバシーポリシー
+# Tabyard プライバシーポリシー
 
 最終更新日: 2026年10月3日
 
-SpaceTab は、新しいタブに自分のリンク・メモ・ToDo・時計・タイマー・カレンダーの予定・天気を表示する Chrome 拡張機能です。このポリシーでは、SpaceTab が扱うデータとその行き先を説明します。
+Tabyard は、新しいタブに自分のリンク・メモ・ToDo・時計・タイマー・カレンダーの予定・天気を表示する Chrome 拡張機能です。このポリシーでは、Tabyard が扱うデータとその行き先を説明します。
 
 ## 要約
 
-- SpaceTab にはアカウントも独自のサーバーもありません。開発者があなたのデータを受け取ることはありません。
+- Tabyard にはアカウントも独自のサーバーもありません。開発者があなたのデータを受け取ることはありません。
 - 作成したデータはすべて、あなたの端末のブラウザ内にだけ保存されます。
 - 利用状況の分析・追跡・広告は一切含まず、データの販売や共有もしません。
 
@@ -84,7 +84,7 @@ SpaceTab は、新しいタブに自分のリンク・メモ・ToDo・時計・�
 
 ## 外部への通信
 
-SpaceTab は、あなたが使う機能のためにだけ外部のサービスに接続します。
+Tabyard は、あなたが使う機能のためにだけ外部のサービスに接続します。
 
 | 機能 | 接続先 | 送る内容 |
 | --- | --- | --- |
